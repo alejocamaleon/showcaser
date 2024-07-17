@@ -1,9 +1,11 @@
 # showcaser
 Using Unity as a video generation tool by linking actions and exporting a video
+(This project is not in development anymore)
 
 Showcaser
 by AlejoLab
 Made in Unity 2020.3.4f1
+
 ---------------------------
 This is a little experiment based on the idea of using Unity as a video generation tool.
 Inspired by https://github.com/Helpsypoo/PrimerUnity
